@@ -5,4 +5,5 @@ $("iframe.youtu-player").each(function(){
    		    		$(this).css({"height": newwidth/1.8 });
     });
 }
+
 sizeAboutBlankIframes();
